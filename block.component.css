@@ -1,0 +1,22 @@
+.letters {
+  height: 45px;
+  width: 45px;
+  border: 3px solid black;
+}
+
+.up {
+  height: 50vh;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.down {
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+
+}
